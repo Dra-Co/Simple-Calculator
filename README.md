@@ -10,6 +10,6 @@ Featues:
 
 Note : 
 -
-This is a simple Calculator program with basic UI (User Interface).
+This is a simple Calculator program with basic design using pure cascading style sheet.
 You can use some basic operators in this program.
 Feel free to modify this program.
