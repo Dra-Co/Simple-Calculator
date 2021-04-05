@@ -9,6 +9,7 @@ Featues:
 - Modulus
 
 Note : 
+-
 This is a simple Calculator program with cool design.
 You can use some basic operators in this program.
 Feel free to modify this program.
