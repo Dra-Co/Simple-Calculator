@@ -10,6 +10,6 @@ Featues:
 
 Note : 
 -
-This is a simple Calculator program with cool design.
+This is a simple Calculator program with basic UI (User Interface).
 You can use some basic operators in this program.
 Feel free to modify this program.
