@@ -1,5 +1,5 @@
 # Simple-Calculator
-Simple Calculator Program (HTML, CSS, JS)
+Simple Calculator program (HTML, CSS, JS)
 
 Featues:
 - Addition
